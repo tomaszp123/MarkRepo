@@ -219,3 +219,7 @@ $a \ll b$|a \ll b|much less than
 $b\gg a$|b\gg a|much greater than
 $\infty$|\infty|infinity symbol
 $\pi$|\pi|π Symbol
+
+
+---
+#KONIEC DOKUMENTU
