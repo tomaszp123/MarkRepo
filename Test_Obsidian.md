@@ -222,4 +222,5 @@ $\pi$|\pi|π Symbol
 
 
 ---
-#KONIEC DOKUMENTU
+# <center>KONIEC DOKUMENTU</center>
+---
